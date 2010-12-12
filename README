@@ -1,0 +1,6 @@
+twearch README
+
+twearch is a twitter search tool library. Basically feed it a search query over
+twitter search, and it will get you results periodically. Since this is a 
+library, it is designed in such a manner so as to be consumed by front-end 
+applications
