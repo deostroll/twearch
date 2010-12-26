@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #twSearchParameters
 #
 #Class to encapsulate a twitter search request
